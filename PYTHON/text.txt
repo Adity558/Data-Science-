@@ -1,0 +1,1 @@
+append mode ka kaam ye hota ha kii agr esko file milta hai to te usi file ke andar append karega agar usko file nahi milti hai to create karta hee 
